@@ -1,4 +1,4 @@
-Natural Language Processing, Machine Learning, and Deep Learning
+Types of AI: natural language processing, machine learning, and deep learning
 =======================================================================================================================================
 
 AI technology encompasses several different types, each with its own unique capabilities and applications. In this chapter, we will explore three key types of AI: natural language processing, machine learning, and deep learning.
