@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) technology offers significant potential for improving workplace performance and productivity, but it is important to consider the ethical implications of using AI. This chapter will discuss some of the ethical considerations that must be taken into account when adopting AI technology for the workplace.
 
 Discussion of ethical considerations when using AI in the workplace
