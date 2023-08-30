@@ -33,3 +33,4 @@
   - [Ensuring transparency and accountability in AI adoption for workplace performance and productivity](chapter-8-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
